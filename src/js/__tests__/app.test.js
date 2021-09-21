@@ -1,0 +1,23 @@
+import { orderByProps } from '../app.js';
+
+test('check function orderByProps()', () => {
+  // const obj1 = {
+  //   name: 'мечник',
+  //   health: 10,
+  //   level: 2,
+  //   attack: 80,
+  //   defence: 40,
+  // };
+  // const arrArgs1 = ['name', 'level'];
+
+  // const received = orderByProps(obj1, arrArgs1);
+  // const expected = [
+  //   { key: 'name', value: 'мечник' },
+  //   { key: 'level', value: 2 },
+  //   { key: 'attack', value: 80 },
+  //   { key: 'defence', value: 40 },
+  //   { key: 'health', value: 10 },
+  // ];
+
+  // expect(received).toEqual(expected);
+});
