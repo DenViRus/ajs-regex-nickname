@@ -1,4 +1,5 @@
 // TODO: write your code here
-import { orderByProps } from "./nickname.js";
+import { Validator } from './nickname.js';
 
-export { orderByProps };
+export { Validator };
+
